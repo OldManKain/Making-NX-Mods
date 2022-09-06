@@ -1,2 +1,2 @@
 # Making-NX-Mods
-Mods for use on NX-Rryujinx-Yuzu
+Mods for use on NX-Ryujinx-Yuzu
